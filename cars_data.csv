@@ -1,0 +1,151 @@
+name,year,kilometrage,boite_de_vitesse,moteur,price
+VOLKSWAGEN COCCINELLE,2016,124 401 km,Manuelle,Essence,16 850€
+AUDI RS5 II,2018,69 876 km,Automatique,Essence,73 330€
+FORD FOCUS IV,2022,72 184 km,Manuelle,Bicarburation essence bioéthanol,26 110€
+CITROEN C3 AIRCROSS phase 2,2022,36 730 km,Manuelle,Essence,20 110€
+FORD KUGA II phase 2,2020,55 736 km,Manuelle,Essence,23 280€
+PEUGEOT 308 II,2017,67 833 km,Manuelle,Essence,15 840€
+MAZDA CX-5 II phase 2,2020,84 181 km,Automatique,Diesel,32 650€
+RENAULT MASTER III phase 2,2024,1 km,Manuelle,Diesel,41 700€
+PORSCHE CAYMAN,2012,66 490 km,Automatique,Essence,42 490€
+OPEL ADAM,2014,126 299 km,Manuelle,Essence,9 030€
+VOLVO XC40,2022,41 843 km,Automatique,Hybrides,45 040€
+TESLA MODEL X,2020,62 768 km,Automatique,Électrique,102 070€
+FIAT TIPO II,2017,66 130 km,Manuelle,Essence,11 640€
+PEUGEOT 5008 II,2020,41 296 km,Manuelle,Essence,33 770€
+OPEL CORSA VI,2021,21 062 km,Automatique,Électrique,25 170€
+PORSCHE 911 TYPE 997 CABRIOLET phase 2,2013,65 331 km,Automatique,Essence,141 490€
+DACIA DUSTER II phase 2,2023,12 km,Manuelle,Essence,28 270€
+CITROEN GRAND C4 SPACETOURER,2020,97 216 km,Manuelle,Essence,24 400€
+VOLVO V40 II phase 2,2018,143 442 km,Automatique,Diesel,18 830€
+OPEL GRANDLAND X,2020,59 174 km,Automatique,Diesel,26 820€
+CITROEN C3 AIRCROSS,2018,75 313 km,Manuelle,Essence,16 480€
+POLESTAR 2,2022,16 250 km,Automatique,Électrique,74 870€
+VOLKSWAGEN T-ROC phase 2,2023,11 342 km,Manuelle,Essence,33 320€
+CITROEN C5 AIRCROSS,2022,55 210 km,Automatique,Diesel,37 180€
+VOLKSWAGEN GOLF VIII,2022,36 874 km,Automatique,Diesel,36 860€
+AUDI Q3 II SPORTBACK,2023,57 km,Automatique,Essence,52 880€
+MERCEDES CLASSE E 5 COUPE,2018,120 835 km,Automatique,Diesel,30 420€
+CITROEN BERLINGO III MULTISPACE,2020,78 421 km,Automatique,Diesel,30 930€
+PORSCHE 911 TYPE 992,2023,10 791 km,Automatique,Essence,253 850€
+JEEP COMPASS II,2022,17 089 km,Automatique,Essence,36 440€
+TESLA MODEL 3,2021,96 025 km,Automatique,Électrique,42 430€
+VOLKSWAGEN T-CROSS,2023,21 560 km,Manuelle,Essence,22 530€
+DS DS 4,2016,167 154 km,Manuelle,Essence,12 460€
+CITROEN C3 III phase 2,2023,10 647 km,Manuelle,Essence,18 120€
+VOLKSWAGEN TIGUAN II,2019,177 103 km,Automatique,Essence,24 790€
+SUZUKI VITARA IV phase 2,2020,38 335 km,Manuelle,Essence,23 670€
+CITROEN C3 III phase 2,2023,3 376 km,Automatique,Essence,23 290€
+RENAULT CAPTUR,2016,163 886 km,Manuelle,Diesel,10 780€
+PEUGEOT 208 GTI,2017,47 401 km,Manuelle,Essence,23 770€
+PEUGEOT 208 phase 2,2019,108 029 km,Manuelle,Diesel,16 100€
+PEUGEOT 208 (2E GENERATION),2023,11 262 km,Manuelle,Essence,21 780€
+BMW SERIE 3 G21 TOURING,2022,55 278 km,Automatique,Diesel,64 360€
+PORSCHE 718 CAYMAN,2018,17 384 km,Automatique,Essence,81 620€
+SEAT ALHAMBRA II phase 2,2017,73 229 km,Automatique,Diesel,28 160€
+DACIA SANDERO 3 STEPWAY,2024,13 km,Manuelle,Essence,23 110€
+FORD KUGA II phase 2,2018,87 575 km,Automatique,Diesel,24 800€
+PEUGEOT 3008 II,2021,106 718 km,Manuelle,Essence,25 770€
+JEEP RENEGADE phase 2,2022,117 km,Automatique,Hybrides,39 650€
+AUDI RS6 II,2009,148 434 km,Automatique,Essence,42 870€
+BMW SERIE 4 F32,2014,177 000 km,Automatique,Diesel,21 120€
+AUDI A4 V AVANT phase 3,2023,17 248 km,Automatique,Essence,48 270€
+LAND ROVER RANGE ROVER EVOQUE,2014,203 300 km,Automatique,Diesel,18 080€
+DS 3 CROSSBACK,2020,13 417 km,Manuelle,Essence,25 510€
+SUZUKI SWACE,2021,17 090 km,Automatique,Hybrides,29 480€
+PEUGEOT 5008 II,2019,95 537 km,Automatique,Diesel,28 100€
+VOLKSWAGEN PASSAT VIII SW,2018,74 760 km,Automatique,Diesel,18 880€
+CITROEN C3 III phase 2,2021,46 246 km,Manuelle,Essence,15 980€
+RENAULT TRAFIC III,2019,110 566 km,Manuelle,Diesel,20 220€
+CITROEN C3 AIRCROSS,2020,73 476 km,Manuelle,Essence,17 230€
+AUDI SQ2,2020,63 517 km,Automatique,Essence,47 130€
+FORD FIESTA VI,2022,11 590 km,Manuelle,Essence,19 500€
+DACIA SANDERO 3 STEPWAY,2022,19 374 km,Manuelle,Essence,15 730€
+RENAULT CLIO IV phase 2,2017,53 618 km,Manuelle,Essence,13 780€
+AUDI Q3 II,2020,118 066 km,Automatique,Essence,49 980€
+MERCEDES GLC phase 2,2021,80 606 km,Automatique,Diesel,44 670€
+PEUGEOT 2008 phase 2,2019,84 958 km,Manuelle,Diesel,17 670€
+PEUGEOT 208 II,2023,15 247 km,Manuelle,Essence,25 500€
+PEUGEOT 208,2015,152 494 km,Manuelle,Essence,11 240€
+LAND ROVER RANGE ROVER EVOQUE II,2023,21 642 km,Automatique,Hybrides,71 550€
+BMW X1 F48,2017,116 875 km,Manuelle,Diesel,27 480€
+AUDI A4 V AVANT phase 3,2021,67 850 km,Automatique,Essence,43 640€
+CITROEN C3 II phase 2,2016,77 790 km,Manuelle,Essence,9 880€
+OPEL GRANDLAND X,2022,45 410 km,Manuelle,Diesel,27 270€
+SEAT LEON 3,2020,76 477 km,Automatique,Diesel,27 480€
+RENAULT CLIO IV phase 2,2018,26 990 km,Manuelle,Essence,15 460€
+OPEL INSIGNIA OPC,2011,50 600 km,Manuelle,Essence,27 480€
+DACIA DUSTER 2,2023,12 km,Manuelle,Essence,27 480€
+SEAT ARONA,2021,58 909 km,Manuelle,Essence,20 760€
+DACIA LODGY STEPWAY,2019,41 381 km,Manuelle,Diesel,18 310€
+FORD ECOSPORT,2015,99 247 km,Manuelle,Diesel,11 320€
+DACIA DUSTER phase 2,2018,141 859 km,Manuelle,Essence,14 730€
+SEAT ARONA phase 2,2023,12 km,Automatique,Essence,31 830€
+PEUGEOT 308 II SW phase 2,2019,105 540 km,Manuelle,Essence,14 860€
+HYUNDAI TUCSON III,2016,151 252 km,Manuelle,Diesel,15 140€
+VOLKSWAGEN GOLF 7 SW ALLTRACK,2021,60 679 km,Automatique,Diesel,37 950€
+OPEL GRANDLAND X,2021,8 928 km,Automatique,Hybrides,51 220€
+FORD B-MAX,2015,70 393 km,Manuelle,Diesel,10 480€
+BMW X1 F48,2019,46 934 km,Automatique,Diesel,33 900€
+AUDI A1 II SPORTBACK,2023,14 504 km,Automatique,Essence,37 800€
+MINI MINI III 5P,2016,109 998 km,Manuelle,Essence,13 720€
+RENAULT SCENIC IV,2022,115 660 km,Automatique,Diesel,22 370€
+DACIA DUSTER II phase 2,2024,1 km,Manuelle,Diesel,31 230€
+RENAULT MASTER III phase 2,2014,115 440 km,Manuelle,Diesel,18 750€
+PORSCHE 911 TYPE 992,2020,33 356 km,Automatique,Essence,204 470€
+AUDI Q5 II phase 2,2022,71 567 km,Automatique,Diesel,49 940€
+PEUGEOT 208 II,2023,11 km,Manuelle,Diesel,23 960€
+PORSCHE BOXSTER II TYPE 987,2006,145 494 km,Manuelle,Essence,36 580€
+AUDI A3 IV SPORTBACK,2024,625 km,Automatique,Diesel,58 620€
+AUDI A4 V,2018,93 061 km,Automatique,Essence,31 230€
+MERCEDES SL II AMG,2003,167 240 km,Automatique,Essence,50 840€
+MERCEDES CLASSE A II phase 2,2012,69 600 km,Manuelle,Essence,13 330€
+KIA STONIC,2019,65 227 km,Manuelle,Essence,16 820€
+CITROEN C5 X,2023,12 km,Automatique,Hybrides,60 080€
+DACIA DUSTER II phase 2,2024,11 km,Manuelle,Diesel,30 950€
+MERCEDES GLC phase 2,2021,53 360 km,Automatique,Hybrides,57 880€
+MINI MINI 3 3P,2022,14 077 km,Automatique,Essence,31 770€
+OPEL CROSSLAND X,2018,119 245 km,Automatique,Essence,17 670€
+OPEL MOKKA II,2022,22 692 km,Manuelle,Diesel,26 200€
+LAND ROVER RANGE ROVER IV phase 2,2020,67 434 km,Automatique,Essence,132 040€
+NISSAN QASHQAI II phase 2,2019,85 813 km,Manuelle,Diesel,20 840€
+SKODA KODIAQ,2020,134 591 km,Automatique,Essence,30 310€
+JAGUAR XE,2016,160 953 km,Automatique,Essence,24 980€
+AUDI A8 III,2012,68 530 km,Automatique,Diesel,38 500€
+BMW SERIE 4 F33 CABRIOLET,2019,89 419 km,Automatique,Diesel,39 790€
+VOLKSWAGEN POLO VI,2019,59 205 km,Manuelle,Essence,16 570€
+PEUGEOT RIFTER,2022,62 799 km,Manuelle,Diesel,29 990€
+CITROEN JUMPY II phase 2,2018,145 985 km,Manuelle,Diesel,20 220€
+MAZDA MX5 III,2010,105 437 km,Manuelle,Essence,18 580€
+PEUGEOT 2008 phase 2,2018,70 200 km,Automatique,Essence,16 080€
+AUDI Q3 II SPORTBACK,2022,5 521 km,Automatique,Essence,51 230€
+PEUGEOT 208,2018,59 132 km,Manuelle,Essence,14 120€
+FORD PUMA II,2022,12 934 km,Automatique,Essence,26 860€
+RENAULT TRAFIC III phase 2,2024,1 km,Manuelle,Diesel,46 800€
+PEUGEOT EXPERT III FOURGON,2020,124 055 km,Manuelle,Diesel,25 940€
+TOYOTA AYGO II,2019,52 594 km,Manuelle,Essence,11 650€
+NISSAN X-TRAIL III phase 2,2019,113 443 km,Manuelle,Diesel,22 740€
+AUDI Q3,2013,115 024 km,Manuelle,Diesel,21 630€
+HYUNDAI IX35,2012,113 954 km,Automatique,Diesel,14 020€
+MERCEDES CLASSE CLS II,2013,87 708 km,Automatique,Diesel,26 430€
+AUDI Q2,2019,131 374 km,Automatique,Diesel,25 280€
+RENAULT CAPTUR II,2023,13 km,Manuelle,Essence,30 580€
+NISSAN QASHQAI II,2016,64 766 km,Automatique,Essence,16 010€
+CITROEN C5 AIRCROSS,2023,22 122 km,Manuelle,Essence,32 840€
+NISSAN QASHQAI II,2016,153 954 km,Manuelle,Diesel,16 830€
+VOLKSWAGEN SHARAN II,2016,148 788 km,Automatique,Diesel,26 890€
+PEUGEOT 2008 II,2024,21 km,Automatique,Essence,34 080€
+OPEL GRANDLAND X,2021,77 168 km,Automatique,Diesel,28 780€
+AUDI Q5 II phase 2,2023,21 622 km,Automatique,Diesel,76 860€
+DACIA SANDERO II STEPWAY phase 2,2019,159 899 km,Manuelle,Diesel,12 280€
+CITROEN C3 AIRCROSS,2020,52 810 km,Automatique,Essence,18 080€
+AUDI Q3 II,2020,115 393 km,Automatique,Essence,30 340€
+PEUGEOT 308 III,2023,17 245 km,Automatique,Hybrides,48 380€
+DODGE RAM,2023,36 km,Automatique,Essence,130 680€
+PEUGEOT 2008 phase 2,2018,30 779 km,Manuelle,Diesel,23 540€
+VOLKSWAGEN T-CROSS,2023,11 km,Automatique,Essence,28 560€
+PEUGEOT 208 phase 2,2020,59 049 km,Manuelle,Diesel,15 100€
+PORSCHE MACAN,2018,91 960 km,Automatique,Diesel,71 370€
+KIA E-NIRO phase 2,2021,49 053 km,Automatique,Électrique,35 250€
+AUDI SQ5 phase 2,2014,170 390 km,Automatique,Diesel,32 980€
+PEUGEOT 208 (2E GENERATION),2023,15 158 km,Automatique,Essence,30 650€
